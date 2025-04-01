@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<p>In this lab, I created a helpdesk environment using osTicket. This section will focus on how to install osTicket on a Windows 10 machine. The installation is being performed in a virtual machine hosted on Azure.</p>
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -21,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - IIS (Internet Information Service) Server with CGI Enabled
 - SQL Server (I used MySQL and HeidiSQL)
 - PHP Manager
-- Item 4
-- Item 5
+- rewrite Module
+- VC_redist (C++)
 
 <h2>Installation Steps</h2>
 
